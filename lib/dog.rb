@@ -21,4 +21,5 @@ class Dog
   
   def self.save_all
     @@all.save
+  end
 end
